@@ -19,3 +19,8 @@ Images
 .vscode
 *.ambe
 GitVersion.h
+
+# Nix
+result
+result-*
+.direnv/
